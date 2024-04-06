@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @R09Aditya
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m currently seeking for internship
+- 📫 Reach me through my gmail, R09Aditya@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am just 16 years old yet i am proficient in Java, HTML, CSS, JS, PHP, SQL, C, Python and Django.
